@@ -1,2 +1,2 @@
 # Baby-Names
-Interesting US baby names findings
+US baby name analysis
